@@ -431,7 +431,11 @@ sections:
         type: FeaturedItem
       - title: "\"Fast and Reliable!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_⭐⭐⭐⭐⭐"
         tagline: Swagroony12323
-        subtitle: 'Maria Walters, Company'
+        subtitle: >-
+          "Not only does Tasty Trails offer mouthwatering recipes, but they also
+          have incredible food delivery options. My meals arrive quickly and are
+          always fresh and hot. The fact that I can get a delicious, healthy
+          meal delivered in no time is a game changer. Highly recommend!"
         text: ''
         image:
           url: /images/avatar4.svg
