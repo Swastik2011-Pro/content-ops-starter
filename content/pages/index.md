@@ -305,7 +305,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-3
+            - pt-2
             - pb-2
             - pl-2
             - pr-2
