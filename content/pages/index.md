@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: of The Savory Spoon
     items:
       - type: FeaturedItem
         title: 500k
