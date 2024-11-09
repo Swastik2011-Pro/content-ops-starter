@@ -396,7 +396,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '"Perfect for Cravings!"'
+      - title: "\"Perfect for Cravings!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_⭐⭐⭐⭐⭐"
         tagline: Crave Lover
         subtitle: ''
         text: >+
