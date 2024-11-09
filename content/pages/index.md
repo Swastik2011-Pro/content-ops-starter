@@ -364,7 +364,17 @@ sections:
       - title: '"Incredible Flavor, Every Time!"'
         tagline: Alone Craver
         subtitle: 'John Doe, Company'
-        text: ''
+        text: >+
+          "As a busy professional, I often struggle to find time to cook healthy
+          meals, but Tasty Trails makes it easy. Their healthy recipes are
+          quick, nutritious, and absolutely delicious. I’ve made several meals
+          from their site, and they’ve all been a hit with my family. Plus, the
+          meals are so much healthier than takeout!"
+
+
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
