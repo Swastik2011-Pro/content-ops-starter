@@ -399,10 +399,15 @@ sections:
       - title: '"Perfect for Cravings!"'
         tagline: Crave Lover
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          "I’ve had a major sweet tooth lately, and Tasty Trails has the BEST
+          dessert recipes. From cookies to cakes to no-bake treats, there’s
+          something for every craving. The instructions are clear, and the
+          results are always amazing. This site has definitely become my go-to
+          when I need to indulge!"
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
