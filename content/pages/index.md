@@ -283,7 +283,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Socially a healthy partner
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
