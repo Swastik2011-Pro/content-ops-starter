@@ -286,7 +286,7 @@ sections:
       text: Socially a healthy partner
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Increase your variety of saviour
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
