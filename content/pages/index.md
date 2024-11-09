@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblocks the best quality food for life
+      text: The food that tempts you
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
