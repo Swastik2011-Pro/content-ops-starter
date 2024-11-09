@@ -142,7 +142,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get your saviour now
         altText: ''
         url: /
         showIcon: false
