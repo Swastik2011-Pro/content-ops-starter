@@ -95,10 +95,13 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          raving something delicious? Get your favorite meals **20x faster**
+          with our quick and reliable delivery service. Satisfy your hunger in
+          no time!
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
