@@ -361,7 +361,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '"Incredible Flavor, Every Time!"'
+      - title: "\"Incredible Flavor, Every Time!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_⭐⭐⭐⭐⭐"
         tagline: Alone Craver
         subtitle: ''
         text: >+
