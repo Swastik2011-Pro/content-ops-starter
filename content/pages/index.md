@@ -429,7 +429,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '"Fast and Reliable!"'
+      - title: '"Fast and Reliable!"⭐⭐⭐⭐⭐'
         tagline: Swagroony12323
         subtitle: 'Maria Walters, Company'
         text: >-
