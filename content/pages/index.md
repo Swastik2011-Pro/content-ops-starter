@@ -376,7 +376,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar3.svg
           altText: John Doe
           styles:
             self:
