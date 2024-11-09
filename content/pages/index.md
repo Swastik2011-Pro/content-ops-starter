@@ -398,7 +398,7 @@ sections:
         type: FeaturedItem
       - title: '"Perfect for Cravings!"'
         tagline: Crave Lover
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
