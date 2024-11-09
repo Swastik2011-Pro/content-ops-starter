@@ -67,15 +67,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Cravings Defeated!!
-        text: >+
-          we’ve helped over **500,000 cravings** be conquered with delicious,
-          satisfying recipes. From quick snacks to indulgent treats, we’ve got
-          the perfect solution for every craving. Whether you're looking for
-          savory comfort food, sweet delights, or healthy alternatives, our
-          easy-to-follow recipes and expert tips will ensure you never have to
-          face hunger without a plan. Join our community and discover why so
-          many food lovers trust us to defeat their cravings!
-
+        text: >
+          Join over **500,000 satisfied food lovers** who’ve discovered the
+          perfect recipes to conquer every craving. From sweet to savory, we’ve
+          got you covered with easy, delicious solutions!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
