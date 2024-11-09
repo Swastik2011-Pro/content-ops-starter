@@ -1,19 +1,22 @@
 ---
-title: Home
+title: Foodgrabers
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: The Savory Spoon
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Where Every Bite Tells a Story!!
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The Savory Spoon is a culinary adventure for food lovers everywhere. From
+      gourmet recipes and global street food to restaurant reviews and cooking
+      tips, we celebrate the rich tapestry of flavors that make food a universal
+      joy. Whether you're a home cook, a foodie, or someone simply looking for
+      inspiration for your next meal, Tasty Trails is your guide to everything
+      delicious
     actions:
-      - label: Get started
+      - label: Get your savior now
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See your saviors
         altText: ''
         url: /
         showIcon: true
@@ -37,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,15 +62,15 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: of The Savory Spoon
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Cravings Defeated!!
+        text: >
+          Join over **500,000 satisfied food lovers** who’ve discovered the
+          perfect recipes to conquer every craving. From sweet to savory, we’ve
+          got you covered with easy, delicious solutions!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +94,14 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Faster
+        text: >+
+          raving something delicious? Get your favorite meals **20x faster**
+          with our quick and reliable delivery service. Satisfy your hunger in
+          no time!
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +122,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Healthier
+        text: >+
+          Enjoy meals that are not only **delicious** but also **200%
+          healthier**. Packed with fresh ingredients and nutritious options,
+          we've got your health covered—without compromising on taste!
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +148,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get your saviour now
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +158,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: This is a oppurtunity
       color: text-primary
       styles:
         self:
@@ -199,25 +208,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -228,68 +218,22 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Crafted with passion and perfected through hard work.
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+
+      The result of a chef’s commitment to quality and craftsmanship. It
+      communicates that the food is made with care, expertise, and a deep
+      appreciation for the art of cooking, resonating with anyone who values the
+      effort behind every meal.
+
     actions: []
     media:
       title: Title of the video
@@ -320,21 +264,20 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Socially a healthy partner
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: Increase your variety of saviour
+    text: |
+      A service that helps to connect with us 
     actions:
-      - label: Get started
+      - label: Become a member now
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
@@ -346,49 +289,13 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -404,17 +311,18 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "\"A Food Lover's Paradise!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_⭐⭐⭐⭐⭐"
+        tagline: A Food Lover
+        subtitle: >-
+          "I've never found a site so dedicated to satisfying every food
+          craving! Tasty Trails has everything from quick weeknight dinners to
+          indulgent desserts. The recipes are easy to follow, and the tips are
+          spot on. I love how they cater to all dietary preferences, and the
+          food photography is beautiful. Every visit feels like a culinary
+          adventure!"
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
@@ -434,16 +342,22 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "\"Incredible Flavor, Every Time!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_⭐⭐⭐⭐⭐"
+        tagline: Alone Craver
+        subtitle: ''
+        text: >+
+          "As a busy professional, I often struggle to find time to cook healthy
+          meals, but Tasty Trails makes it easy. Their healthy recipes are
+          quick, nutritious, and absolutely delicious. I’ve made several meals
+          from their site, and they’ve all been a hit with my family. Plus, the
+          meals are so much healthier than takeout!"
+
+
+
+
+
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar3.svg
           altText: John Doe
           styles:
             self:
@@ -463,14 +377,18 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "\"Perfect for Cravings!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_⭐⭐⭐⭐⭐"
+        tagline: Crave Lover
+        subtitle: ''
+        text: >+
+          "I’ve had a major sweet tooth lately, and Tasty Trails has the BEST
+          dessert recipes. From cookies to cakes to no-bake treats, there’s
+          something for every craving. The instructions are clear, and the
+          results are always amazing. This site has definitely become my go-to
+          when I need to indulge!"
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -492,17 +410,16 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "\"Fast and Reliable!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_⭐⭐⭐⭐⭐"
+        tagline: Swagroony12323
+        subtitle: >-
+          "Not only does Tasty Trails offer mouthwatering recipes, but they also
+          have incredible food delivery options. My meals arrive quickly and are
+          always fresh and hot. The fact that I can get a delicious, healthy
+          meal delivered in no time is a game changer. Highly recommend!"
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar4.svg
           altText: Maria Walters
           styles:
             self:
@@ -510,64 +427,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -589,106 +448,11 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
+      text: Contact our Warriours!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: ''
     media:
       fields:
         - name: name
