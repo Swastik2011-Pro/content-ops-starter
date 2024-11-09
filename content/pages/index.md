@@ -330,7 +330,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: A Food Lover's Paradise!
+      - title: '"A Food Lover''s Paradise!"'
         tagline: A Food Lover
         subtitle: >-
           "I've never found a site so dedicated to satisfying every food
