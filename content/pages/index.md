@@ -239,7 +239,9 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: ''
+      text: >-
+        Crafted with passion and perfected through hard work — every dish tells
+        the story of a chef's dedication."
       color: text-dark
       styles:
         self:
