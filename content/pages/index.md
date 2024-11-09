@@ -7,7 +7,7 @@ sections:
       text: The Savory Spoon
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Where Every Bite Tells a Story!!
     text: |
       This website is for those who are craving for the best
 
