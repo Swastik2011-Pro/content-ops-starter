@@ -333,7 +333,7 @@ sections:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
-        tagline: A Food Lover's Paradise!
+        tagline: A Food Lover
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
