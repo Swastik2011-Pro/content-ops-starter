@@ -290,7 +290,7 @@ sections:
     text: |
       A service that helps to connect with us 
     actions:
-      - label: Get started
+      - label: Become a member now
         url: /
         icon: arrowRight
         iconPosition: right
