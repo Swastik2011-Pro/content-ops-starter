@@ -123,10 +123,13 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Healthier
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Enjoy meals that are not only **delicious** but also **200%
+          healthier**. Packed with fresh ingredients and nutritious options,
+          we've got your health covered—without compromising on taste!
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
