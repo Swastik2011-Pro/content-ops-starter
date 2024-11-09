@@ -332,7 +332,13 @@ sections:
     items:
       - title: A Food Lover's Paradise!
         tagline: A Food Lover
-        subtitle: 'Maria Walters, Company'
+        subtitle: >-
+          "I've never found a site so dedicated to satisfying every food
+          craving! Tasty Trails has everything from quick weeknight dinners to
+          indulgent desserts. The recipes are easy to follow, and the tips are
+          spot on. I love how they cater to all dietary preferences, and the
+          food photography is beautiful. Every visit feels like a culinary
+          adventure!"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
