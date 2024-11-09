@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The food that tempts you !!
+      text: The Savory Spoon
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
