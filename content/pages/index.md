@@ -432,10 +432,7 @@ sections:
       - title: "\"Fast and Reliable!\"\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_⭐⭐⭐⭐⭐"
         tagline: Swagroony12323
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/avatar4.svg
           altText: Maria Walters
