@@ -287,9 +287,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your variety of saviour
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      A service that helps to connect with us 
     actions:
       - label: Get started
         url: /
