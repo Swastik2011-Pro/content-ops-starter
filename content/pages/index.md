@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Where Every Bite Tells a Story!!
-    text: |
-      This website is for those who are craving for the best
+    text: >+
+      Tasty Trails is a culinary adventure for food lovers everywhere. From
+      gourmet recipes and global street food to restaurant reviews and cooking
+      tips, we celebrate the rich tapestry of flavors that make food a universal
+      joy. Whether you're a home cook, a foodie, or someone simply looking for
+      inspiration for your next meal, Tasty Trails is your guide to everything
+      delicious
 
-      quality food!
     actions:
       - label: Get started
         altText: ''
