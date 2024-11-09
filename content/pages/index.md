@@ -246,11 +246,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      The result of a chef’s commitment to quality and craftsmanship. It
+      communicates that the food is made with care, expertise, and a deep
+      appreciation for the art of cooking, resonating with anyone who values the
+      effort behind every meal.
+
     actions: []
     media:
       title: Title of the video
