@@ -16,7 +16,7 @@ sections:
       inspiration for your next meal, Tasty Trails is your guide to everything
       delicious
     actions:
-      - label: Get started
+      - label: Get your savior now
         altText: ''
         url: /
         showIcon: false
